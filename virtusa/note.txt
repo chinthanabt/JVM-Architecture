@@ -1,0 +1,9 @@
+1). virtual mechine explanation
+2). specification and implementation
+3). examples from 1 to 8
+4). class loader sub system
+5). class path
+		command level
+		command prompt level
+		as a environment variable
+		
